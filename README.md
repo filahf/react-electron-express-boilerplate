@@ -1,5 +1,4 @@
-
-## Available Scripts
+<h1 align="center">React Express Electron Boilerplate</h1>
 
 In the project directory, you can run:
 
